@@ -108,9 +108,9 @@ input, select {
 
 body {
     background-color:#EAF6F6;
-  }
+}
 
-  hr {
+hr {
     background-color: white;
     border-style: none;
     border-top-style: dotted;
@@ -118,4 +118,8 @@ body {
     border-width: 5px;
     width: 5%;
     line-style: 
-  }
+}
+H1 , h3 {
+
+    color: #66bfbf;
+}
