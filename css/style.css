@@ -13,7 +13,10 @@ hr {
     width: 5%;
     line-style: 
 }
-H1 , h3 {
+h1  {
 
+    color: #66bfbf;
+}
+h3 {
     color: #66bfbf;
 }
